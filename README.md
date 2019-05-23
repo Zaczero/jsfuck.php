@@ -4,11 +4,11 @@ This is an unofficial port of [jsfuck](https://github.com/aemkei/jsfuck) JavaScr
 
 JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
 
-## Download
+## 🔗 Download
 
 * https://github.com/Zaczero/JSFuck.php/releases/latest
 
-## Example
+## ⛱️ Example
 
 The following JavaScript code will execute `alert(1)`:
 
@@ -31,7 +31,7 @@ The following JavaScript code will execute `alert(1)`:
 
 ![](https://i.imgur.com/i2N4lWa.gif)
 
-## Getting Started
+## 🏁 Getting Started
 
 ```php
 // Load the library
@@ -49,14 +49,11 @@ $encoded = $jsf->Encode("alert(1)");
 $encEval = $jsf->Encode("alert(1)", true);
 ```
 
-## Donate
+## ☕ Support me
 
-If you find this library useful please consider making a small donation. Thanks !
+* Bitcoin: `35n1y9iHePKsVTobs4FJEkbfnBg2NtVbJW`
 
-* BTC: `1NjW3K26ZPZeveW4st4sC249MfyW2w5ZP8`
-* ETH: `0x56b4ED755b7bDD75A954e168EB96f4501F75342d`
-
-## License
+## 📎 License
 
 MIT License
 
